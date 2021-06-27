@@ -2,8 +2,9 @@
 layout: post
 title: Linux Fundamentals Part 1
 ---
+---
 share-img: /assets/img/death.jpg
-
+---
 
 task 1 intro
 
