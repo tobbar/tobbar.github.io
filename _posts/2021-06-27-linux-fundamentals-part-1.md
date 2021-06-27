@@ -28,9 +28,9 @@ in this task we will learn about (man) man is the most helpful command in Linux 
 
 ![image](/assets/img/linux/1.3.png)
 
-## Q:How would you output hello without a newline
+### Q: How would you output hello without a newline
 
-### A:echo -n hello
+#### A: echo -n hello
 
 ![image](/assets/img/linux/1.4.png)
 
@@ -40,15 +40,15 @@ this task is about ls command it list all files and information in directory lik
 
 ![image](/assets/img/linux/1.5.png)
 
-Q:What flag outputs all entries
+### Q: What flag outputs all entries
 
-A:-a
+#### A: -a
 
 ![image](/assets/img/linux/1.6.png)
 
-Q:What flag outputs things in a "long list" format
+### Q: What flag outputs things in a "long list" format
 
-A:-l
+#### A: -l
 
 ![image](/assets/img/linux/1.7.png)
 
