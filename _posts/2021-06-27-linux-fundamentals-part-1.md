@@ -58,9 +58,9 @@ this task is about cat command cat is Abbreviation for concatenate it output the
 
 ![image](/assets/img/linux/1.8.png)
 
-Q:What flag numbers all output lines?
+### Q: What flag numbers all output lines?
 
-A:-n
+#### A: -n
 
 ![image](/assets/img/linux/1.9.png)
 
@@ -80,25 +80,25 @@ in this task we will learn about binary and relative path binaries are files tha
 |..|Directory before the current directory|/tmp|..|../hello|/tmp/hello|
 |~|The user's home directory|/home/<current user>|~|~/hello|/home/<user>/hello|
 
-Q:How would you run a binary called hello using the directory shortcut. ?
+### Q: How would you run a binary called hello using the directory shortcut. ?
 
-A:./hello
+#### A: ./hello
 
-Q:How would you run a binary called hello in your home directory using the shortcut ~ ?
+### Q: How would you run a binary called hello in your home directory using the shortcut ~ ?
 
-A:~/hello
+#### A: ~/hello
 
-Q: How would you run a binary called hello in the previous directory using the shortcut .. ?
+### Q: How would you run a binary called hello in the previous directory using the shortcut .. ?
 
-A: ../hello
+#### A: ../hello
 
 # Task 9 Binary - Shiba1
 
 in this task, we have a challenge to create a file called noot.txt and run the binary to get the password for the user shiba2
 
-Q:What's the password for shiba2
+### Q: What's the password for shiba2
 
-A:pinguftw
+#### A: pinguftw
 
 ![image](/assets/img/linux/1.11.png)
 
