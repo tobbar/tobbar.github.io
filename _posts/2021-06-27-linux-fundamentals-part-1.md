@@ -28,9 +28,9 @@ in this task we will learn about (man) man is the most helpful command in Linux 
 
 ![image](/assets/img/linux/1.3.png)
 
-Q:How would you output hello without a newline
+## Q:How would you output hello without a newline
 
-A:echo -n hello
+### A:echo -n hello
 
 ![image](/assets/img/linux/1.4.png)
 
