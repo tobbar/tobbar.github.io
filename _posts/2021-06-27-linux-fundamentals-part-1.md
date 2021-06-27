@@ -2,7 +2,7 @@
 layout: post
 title: Linux Fundamentals Part 1
 ---
-![image](/assets/img/linux/1.1.jpg)
+![image](/assets/img/linux/1.1.png)
 
 #Task 1 intro
 
