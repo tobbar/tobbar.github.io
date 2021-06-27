@@ -74,7 +74,11 @@ in this task, we will learn about touch command touch create files if we want to
 
 in this task we will learn about binary and relative path binaries are files that contain compiled source code
 
-![image](/assets/img/linux/1.13.png)
+|Relative Path|Meaning|Absolute Path|Relative Path|Running a binary with a Relative Path|Running A Binary with an Absolute Path|
+| :- | :- | :- | :- | :- | :- |
+|.|Current Directory|/tmp/aa |.|./hello|/tmp/aa/hello|
+|..|Directory before the current directory|/tmp|..|../hello|/tmp/hello|
+|~|The user's home directory|/home/<current user>|~|~/hello|/home/<user>/hello|
 
 Q:How would you run a binary called hello using the directory shortcut. ?
 
