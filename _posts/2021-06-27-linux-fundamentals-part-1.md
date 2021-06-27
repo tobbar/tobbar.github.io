@@ -7,7 +7,6 @@ title: Linux Fundamentals Part 1
 # Task 1 intro
 
 This room is the first part in the Linux Fundamental rooms, in this room we will learn three topics
-
    Introduction To Linux
    Executing Commands and Man Pages
    Basic File Operators
