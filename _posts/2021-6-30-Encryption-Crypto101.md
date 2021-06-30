@@ -6,32 +6,32 @@ title: Encryption-Crypto101
 ![image](/assets/img/Crypto/1.png)
 
 # Task 1 What will this room cover? 
-## This room will cover:
-  ## Why cryptography matters for security and CTFs
-  ## The two main classes of cryptography and their uses
-  ## RSA, and some of the uses of RSA
-  ## 2 methods of Key Exchange
-  ## Notes about the future of encryption with the rise of Quantum Computing
+### This room will cover:
+#### Why cryptography matters for security and CTFs
+#### The two main classes of cryptography and their uses
+#### RSA, and some of the uses of RSA
+#### 2 methods of Key Exchange
+#### Notes about the future of encryption with the rise of Quantum Computing
    
- # Task 2 Key terms  
+# Task 2 Key terms  
  
- ### Q: Are SSH keys protected with a passphrase or a password?
- #### A: passphrase
+### Q: Are SSH keys protected with a passphrase or a password?
+#### A: passphrase
  
-  #### Passphrase - Separate to the key, a passphrase is similar to a password and used to protect a key.
+#### Passphrase - Separate to the key, a passphrase is similar to a password and used to protect a key.
    
- # Task 3 Why is Encryption important? 
+# Task 3 Why is Encryption important? 
    
-   ### Q: What does SSH stand for?
-   #### A: Secure Shell 
+### Q: What does SSH stand for?
+#### A: Secure Shell 
    
-  #### SSH or Secure Shell is a network communication protocol that enables two computers to communicate 
+#### SSH or Secure Shell is a network communication protocol that enables two computers to communicate 
    
-   ### Q: How do webservers prove their identity?
-   #### A: certificates
+### Q: How do webservers prove their identity?
+#### A: certificates
    
-   ### Q: What is the main set of standards you need to comply with if you store or process payment card details?
-   #### A: PCI-DSS
+### Q: What is the main set of standards you need to comply with if you store or process payment card details?
+#### A: PCI-DSS
    
  # Task 4 Crucial Crypto Maths 
  
