@@ -33,32 +33,32 @@ title: Encryption-Crypto101
 ### Q: What is the main set of standards you need to comply with if you store or process payment card details?
 #### A: PCI-DSS
    
- # Task 4 Crucial Crypto Maths 
+# Task 4 Crucial Crypto Maths 
  
- ### Q: What's 30 % 5? 
- #### A: 0
+### Q: What's 30 % 5? 
+#### A: 0
  
- ### Q: What's 25 % 7
- #### A: 4
+### Q: What's 25 % 7
+#### A: 4
  
- ### Q: What's 118613842 % 9091
- #### A: 3565
+### Q: What's 118613842 % 9091
+#### A: 3565
  
- # Task 5 Types of Encryption 
+# Task 5 Types of Encryption 
    
- ### Q: Should you trust DES? Yea/Nay  
- #### A: Nay
+### Q: Should you trust DES? Yea/Nay  
+#### A: Nay
  
- ### Q: What was the result of the attempt to make DES more secure so that it could be used for longer?
- #### A: Triple DES
+### Q: What was the result of the attempt to make DES more secure so that it could be used for longer?
+#### A: Triple DES
  
- ### Q: Is it ok to share your public key? Yea/Nay
- #### A: Yea
+### Q: Is it ok to share your public key? Yea/Nay
+#### A: Yea
  
- # Task 6 RSA - Rivest Shamir Adleman 
+# Task 6 RSA - Rivest Shamir Adleman 
    
- ### Q: p = 4391, q = 6659. What is n? 
- #### A: 29239669
+### Q: p = 4391, q = 6659. What is n? 
+#### A: 29239669
  
 ![image](/assets/img/Crypto/2.png)   
     
