@@ -64,18 +64,18 @@ title: Encryption-Crypto101
     
 # Task 7 Establishing Keys Using Asymmetric Cryptography 
 
- ## Metaphor time                                                                                                                                            
- ### Imagine you have a secret code, and instructions for how to use the secret code. If you want to send your friend the instructions without anyone else being able   to read it, what you could do is ask your friend for a lock.
+### Metaphor time                                                                                                                                            
+#### Imagine you have a secret code, and instructions for how to use the secret code. If you want to send your friend the instructions without anyone else being able   to read it, what you could do is ask your friend for a lock.
 
- ### Only they have the key for this lock, and we’ll assume you have an indestructible box that you can lock with it.
+#### Only they have the key for this lock, and we’ll assume you have an indestructible box that you can lock with it.
 
- ### If you send the instructions in a locked box to your friend, they can unlock it once it reaches them and read the instructions.
+#### If you send the instructions in a locked box to your friend, they can unlock it once it reaches them and read the instructions.
 
- ### After that, you can communicate in the secret code without risk of people snooping.
+#### After that, you can communicate in the secret code without risk of people snooping.
 
- ### In this metaphor, the secret code represents a symmetric encryption key, the lock represents the server’s public key, and the key represents the server’s private key.
+#### In this metaphor, the secret code represents a symmetric encryption key, the lock represents the server’s public key, and the key represents the server’s private key.
 
- ### You’ve only used asymmetric cryptography once, so it’s fast, and you can now communicate privately with symmetric encryption.
+#### You’ve only used asymmetric cryptography once, so it’s fast, and you can now communicate privately with symmetric encryption.
 
 # Task 8 Digital signatures and Certificates 
 
@@ -98,12 +98,12 @@ title: Encryption-Crypto101
 
 # Task 10 Explaining Diffie Hellman Key Exchange 
 
-## What is Key Exchange?
+### What is Key Exchange?
 
-### Key exchange allows 2 people/parties to establish a set of common cryptographic keys without an observer being able to get these keys. Generally, to establish common symmetric keys.
-## How does Diffie Hellman Key Exchange work?
+#### Key exchange allows 2 people/parties to establish a set of common cryptographic keys without an observer being able to get these keys. Generally, to establish common symmetric keys.
+### How does Diffie Hellman Key Exchange work?
 
-### Alice and Bob want to talk securely. They want to establish a common key, so they can use symmetric cryptography, but they don’t want to use key exchange with asymmetric cryptography. This is where DH Key Exchange comes in.
+#### Alice and Bob want to talk securely. They want to establish a common key, so they can use symmetric cryptography, but they don’t want to use key exchange with asymmetric cryptography. This is where DH Key Exchange comes in.
 
 # Task 11 PGP, GPG and AES 
 
