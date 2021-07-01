@@ -36,14 +36,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hasharf3@gmail.com"
-  facebook: https://www.facebook.com/ertugrulucbeyi
-  github: https://github.com/tobbar
-  twitter: https://twitter.com/hasharf3_data
+  facebook: ertugrulucbeyi
+  github: tobbar
+  twitter: hasharf3_data
   patreon: 
   youtube: 
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/hassan-asharf-84315b1b4
+  linkedin: hassan-asharf-84315b1b4
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
